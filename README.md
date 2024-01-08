@@ -2,9 +2,7 @@
   <h1>Hello 👋</h1>
 <!--   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img> -->
   
-<!-- ![jake the dog](https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif) -->
-
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm_NXki7qPE2rbjGGcng-4iu5DF-e15uP2Q&usqp=CAU)
+<img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" style="height: 50%;">
 
     
 ## My Name is Jake!

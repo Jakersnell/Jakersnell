@@ -21,7 +21,7 @@
 
   
 ### I am skilled in:
-  <div align="center">
+  <div align="center" style="margin-left: 5rem;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
       <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>

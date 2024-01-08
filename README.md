@@ -7,19 +7,19 @@
 
   <div align="left" style="margin-left: 10rem;">
 
-    #### I am a Java fullstack developer bootcamp graduate
+  #### I am a Java fullstack developer bootcamp graduate
 
-    #### I am passionate about a variety of topics, most prevalent being:
+  #### I am passionate about a variety of topics, most prevalent being:
 
-    - compiler design
-    - os kernel design
-    - graphics programming
-    - high performance server optimization
+  - compiler design
+  - os kernel design
+  - graphics programming
+  - high performance server optimization
 
-    #### Im currently working on
+  #### Im currently working on
 
-    - A lightweight C compiler written in Rust
-    - A reddit clone written in Python
+  - A lightweight C compiler written in Rust
+  - A reddit clone written in Python & Angular
   </div>
 
   ### I am skilled in:

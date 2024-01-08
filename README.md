@@ -2,7 +2,7 @@
   <h1>Hello 👋</h1>
 <!--   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img> -->
   
-<img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" style="height: 50%;">
+<img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" style="width: 20rem;">
 
     
 ## My Name is Jake!

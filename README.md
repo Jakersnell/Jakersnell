@@ -5,10 +5,14 @@
 
     
 ## My Name is Jacob Snell
-  
-  <p> I am a Java fullstack developer bootcamp graduate</p>
-  <p> I am passionate about high performance programming and compiler design</p>
-  <br>  
+<pre>
+  I am a Java fullstack developer bootcamp graduate
+  I am passionate about a variety of topics, most prevalent being:
+      * compiler design
+      * os kernel design
+      * graphics programming
+      * high performance server optimization
+</pre>
 
 ## Im currently working on
   

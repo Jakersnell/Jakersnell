@@ -14,6 +14,6 @@
 ### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust, python, java, javascript, typescript, sql, git, linux, " />
+    <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,sql,git,linux" />
   </a>
 </p>

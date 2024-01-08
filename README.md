@@ -13,7 +13,6 @@
 
   - compiler design
   - os kernel design
-  - graphics programming
   - high performance server optimization
 
   #### Im currently working on

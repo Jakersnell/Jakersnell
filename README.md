@@ -14,7 +14,7 @@
   
   <p> A lightweight C compiler written in Rust</p>
   <p> A reddit clone written in Python</p>
-</div>
+
   
 ### I am skilled in:
   <div align="center">
@@ -25,3 +25,4 @@
     </a>
   </div>
 
+</div>

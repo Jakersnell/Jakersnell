@@ -16,8 +16,8 @@
   <p> I am a Java fullstack developer bootcamp graduate</p>
   <p> I am passionate about high performance programming and compiler design</p>
   
-  
-  <h2>Im currently working on</h2>
+  <br>
+## Im currently working on
   
   <p> A lightweight C compiler written in Rust</p>
   <p> A reddit clone written in Python</p>

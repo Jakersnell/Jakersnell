@@ -7,8 +7,8 @@
 ## My Name is Jacob Snell
 <div align="left">
 
-I am a Java fullstack developer bootcamp graduate
-I am passionate about a variety of topics, most prevalent being:
+##### I am a Java fullstack developer bootcamp graduate
+##### I am passionate about a variety of topics, most prevalent being:
 * compiler design
 * os kernel design
 * graphics programming
@@ -17,11 +17,11 @@ I am passionate about a variety of topics, most prevalent being:
 
 ## Im currently working on
   
-<pre>
-A lightweight C compiler written in Rust
-A reddit clone written in Python
+<div align="left">
+* A lightweight C compiler written in Rust
+* A reddit clone written in Python
 
-</pre>
+<div align="left">
   
 ### I am skilled in:
   <div align="center">

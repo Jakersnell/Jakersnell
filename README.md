@@ -3,11 +3,6 @@
   <!--   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img> -->
   
 
-  <div style="height: 5rem; overflow: hidden">
-    <img
-      src="https://img.itch.zone/aW1nLzEwOTUyNjI2LmdpZg==/original/g2Hqmx.gif">
-  </div>
-
   ## My Name is Jake!
 
   <div align="left" style="margin-left: 10rem;">

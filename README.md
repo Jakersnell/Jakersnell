@@ -5,7 +5,7 @@
 ![jake the dog](https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif)
 
     
-## My Name is Jacob Snell
+## My Name is Jake!
 <div align="left" style="margin-left: 10rem;">
 
 #### I am a Java fullstack developer bootcamp graduate

@@ -11,7 +11,7 @@
   </p>
   
   <h3>My Name is Jacob Snell</h3>
-  <ul style="margin-left: 10rem" align="center>
+  <ul style="margin-left: 10rem" align="center">
     <li> I am a Java fullstack developer bootcamp graduate</li>
     <li> I am passionate about high performance programming and compiler design</li>
   </ul>

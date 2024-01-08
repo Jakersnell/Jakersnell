@@ -10,13 +10,13 @@
     </a>
   </p>
     
-  <h3>My Name is Jacob Snell</h3>
+  <h2>My Name is Jacob Snell</h2>
   
   <p> I am a Java fullstack developer bootcamp graduate</p>
   <p> I am passionate about high performance programming and compiler design</p>
   
   
-  <h3>Im currently working on</h3>
+  <h2>Im currently working on</h2>
   
   <p> A lightweight C compiler written in Rust</p>
   <p> A reddit clone written in Python</p>

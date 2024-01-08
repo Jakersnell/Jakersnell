@@ -1,7 +1,7 @@
 <div> 
   <h1>Hello 👋</h1>
 <!--   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img> -->
-(alt text)[https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif]
+![jake the dog](https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif)
 
     
 ## My Name is Jacob Snell

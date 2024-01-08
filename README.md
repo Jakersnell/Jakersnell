@@ -5,7 +5,7 @@
 
     
 ## My Name is Jacob Snell
-<pre>
+<pre align="left">
   I am a Java fullstack developer bootcamp graduate
   I am passionate about a variety of topics, most prevalent being:
       * compiler design

@@ -1,4 +1,4 @@
-<div align="center">
+<div> 
   <h1>Hello 👋</h1>
   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img>
 
@@ -21,7 +21,7 @@
 
   
 ### I am skilled in:
-  <div align="center">
+  <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
       <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>

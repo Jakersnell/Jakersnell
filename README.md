@@ -14,8 +14,8 @@
 ### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" />
-    <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" />
-    <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" />
+    <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
   </a>
 </p>

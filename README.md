@@ -2,14 +2,7 @@
   <h1>Hello 👋</h1>
   <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img>
 
-### I am skilled in:
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
-      <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
-      <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
-    </a>
-  </div>
+
     
 ## My Name is Jacob Snell
   
@@ -23,5 +16,12 @@
   <p> A reddit clone written in Python</p>
 </div>
   
-
+### I am skilled in:
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
+      <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
+    </a>
+  </div>
 

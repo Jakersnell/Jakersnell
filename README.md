@@ -1,21 +1,25 @@
-### Hi there 👋
+<div align="center">### Hi there 👋
+  
+  <img src="https://i.imgur.com/mBOLoZc.gif" alt="a nice pixel art of a scenic view, with a tree and leaves falling"></img>
+  
+  
+  <h3>My Name is Jacob Snell</h3>
+  <ul>
+    <li> I am a Java fullstack developer bootcamp graduate</li>
+    <li> I am passionate about high performance programming and compiler design</li>
+  </ul>
 
-  ![alt-text](https://i.imgur.com/mBOLoZc.gif)
-
-
-### My Name is Jacob Snell
-* I am a Java fullstack developer bootcamp graduate
-* I am passionate about high performance programming and compiler design
-
-### Im currently working on
-* A lightweight C compiler written in Rust
-* A reddit clone written in Python
-
-### My Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
-    <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
-  </a>
-</p>
+  <h3>Im currently working on</h3>
+  <ul>
+    <li> A lightweight C compiler written in Rust</li>
+    <li> A reddit clone written in Python</li>
+  </ul>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
+      <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
+    </a>
+  </p>
+</div>

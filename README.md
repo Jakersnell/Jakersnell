@@ -4,7 +4,7 @@
   
 <!-- ![jake the dog](https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif) -->
 
-![alt text](https://lastsecret.net/bitmapdreams/new52colors/pages/images/vr14_new52header.gif)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm_NXki7qPE2rbjGGcng-4iu5DF-e15uP2Q&usqp=CAU)
 
     
 ## My Name is Jake!

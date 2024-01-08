@@ -5,7 +5,7 @@
 
     
 ## My Name is Jacob Snell
-<div align="left">
+<div align="left" style="margin-left: 10rem;">
 
 #### I am a Java fullstack developer bootcamp graduate
 #### I am passionate about a variety of topics, most prevalent being:
@@ -21,7 +21,7 @@
 
   
 ### I am skilled in:
-  <div align="center" style="margin-left: 10rem;">
+  <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
       <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>

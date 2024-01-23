@@ -18,7 +18,6 @@
   #### Im currently working on
 
   - A lightweight C compiler written in Rust
-  - A reddit clone written in Python & Angular
   </div>
 
   ### I am skilled in:

@@ -13,7 +13,7 @@
 
   - compiler design
   - os kernel design
-  - high performance server optimization
+  - llvm and runtime design
 
   #### Im currently working on
 

@@ -17,7 +17,7 @@
 
   #### Im currently working on
 
-  - A lightweight C compiler written in Rust
+  - A small C compiler written in Rust
   </div>
 
   ### I am skilled in:

@@ -13,7 +13,7 @@
 
   - compiler design
   - os kernel design
-  - llvm and runtime design
+  - server architecture
 
   #### Im currently working on
 

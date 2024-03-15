@@ -7,8 +7,6 @@
 
   <div align="left" style="margin-left: 10rem;">
 
-  #### I am a Java fullstack developer bootcamp graduate
-
   #### I am passionate about a variety of topics, most prevalent being:
 
   - compiler design
@@ -29,5 +27,8 @@
       <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
     </a>
   </div>
+
+  ### [My LinkedIn](https://www.linkedin.com/in/jake-snell-016684242/)
+
 
 </div>

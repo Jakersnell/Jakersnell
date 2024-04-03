@@ -7,6 +7,8 @@
 
   <div align="left" style="margin-left: 10rem;">
 
+  #### I really enjoy learning, problem solving, and programming.
+
   #### I am passionate about a variety of topics, most prevalent being:
 
   - compiler design

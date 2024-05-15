@@ -11,9 +11,10 @@
 
   #### I am passionate about a variety of topics, most prevalent being:
 
-  - compiler design
-  - os kernel design
-  - server architecture
+  - Compiler design
+  - OS kernel design
+  - Server architecture
+  - Clean API design
 
   #### Im currently working on
 

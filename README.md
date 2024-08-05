@@ -11,14 +11,15 @@
 
   #### I am passionate about a variety of topics, most prevalent being:
 
-  - Compiler design
-  - OS kernel design
-  - Server architecture
-  - Clean API design
+  - Scalable system design
+  - High performance computing
+  - Clean code
+
+  #### I recently finished
+  - Micro-C: A C compiler
 
   #### Im currently working on
-
-  - A small C compiler written in Rust
+  - A new front end for TheStack
   </div>
 
   ### I am skilled in:

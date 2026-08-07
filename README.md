@@ -19,7 +19,7 @@
   - Micro-C: A C compiler
 
   #### Im currently working on
-  - A new front end for TheStack in the Angular framework
+  - Contributing to Vector, an open source monitoring collection system
   </div>
 
   ### I am skilled in:

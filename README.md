@@ -5,6 +5,8 @@
 
   ## My Name is Jake!
 
+  <b>This is my personal Github.</b>
+
   <div align="left" style="margin-left: 10rem;">
 
   #### I really enjoy learning, problem solving, and programming.

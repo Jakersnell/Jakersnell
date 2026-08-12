@@ -29,8 +29,8 @@
   <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
-      <img src="https://skillicons.dev/icons?i=angular,arduino,aws,django,html,css,eclipse" /><br>
-      <img src="https://skillicons.dev/icons?i=github,gradle,heroku,mysql,postman,spring,threejs" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,firebase,aws,django,html,css,react" /><br>
+      <img src="https://skillicons.dev/icons?i=github,express,postgres,mysql,postman,spring,threejs" /><br>
     </a>
   </div>
 

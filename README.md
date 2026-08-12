@@ -17,11 +17,12 @@
   - High performance computing
   - Clean maintainable code
 
-  #### I recently finished
+  #### My favorite project I have worked on
   - Micro-C: A C compiler
 
   #### Im currently working on
   - Contributing to Vector, an open source monitoring collection system
+  - Algorithmic trading with alpaca.markets
   </div>
 
   ### I am skilled in:

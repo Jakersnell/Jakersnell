@@ -15,7 +15,7 @@
 
   - Scalable system design
   - High performance computing
-  - Clean code
+  - Clean maintainable code
 
   #### I recently finished
   - Micro-C: A C compiler

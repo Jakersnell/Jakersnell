@@ -31,6 +31,7 @@
       <img src="https://skillicons.dev/icons?i=rust,python,java,javascript,typescript,git,linux" /><br>
       <img src="https://skillicons.dev/icons?i=angular,firebase,aws,django,html,css,react" /><br>
       <img src="https://skillicons.dev/icons?i=github,express,postgres,mysql,postman,spring,threejs" /><br>
+      <img src="https://skillicons.dev/icons?i=gitlab,prometheus,docker,grafana,terraform,vscode,git" /><br>
     </a>
   </div>
 
